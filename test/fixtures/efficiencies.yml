@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  irr: 1
+  life: 1
+
+two:
+  irr: 1
+  life: 1
